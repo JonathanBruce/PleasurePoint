@@ -1,0 +1,22 @@
+{
+  "name": "pleasure-point",
+  "version": "1.0.0",
+  "description": "This is a React component library for pleasure point's visual elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JonathanBruce/PleasurePoint"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Jonathan Bruce",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^16.1.1"
+  }
+}
